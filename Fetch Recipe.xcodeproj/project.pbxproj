@@ -66,7 +66,7 @@
 		7F7A856D2CE0A2CA000971F0 /* Fetch RecipeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Fetch RecipeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F7A85712CE0A2CA000971F0 /* Fetch_RecipieUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fetch_RecipieUITests.swift; sourceTree = "<group>"; };
 		7F7A85732CE0A2CA000971F0 /* Fetch_RecipieUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fetch_RecipieUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		7F7A85872CE0A7A8000971F0 /* MainScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainScreenViewController.swift; sourceTree = "<group>"; };
+		7F7A85872CE0A7A8000971F0 /* MainScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MainScreenViewController.swift; path = ../MainScreenViewController.swift; sourceTree = "<group>"; };
 		7F7A85892CE0AA80000971F0 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		7F7A858B2CE0AE51000971F0 /* TopDisplayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopDisplayView.swift; sourceTree = "<group>"; };
 		7F7A858D2CE0AEB8000971F0 /* RecipeCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeCollectionViewCell.swift; sourceTree = "<group>"; };
@@ -139,13 +139,13 @@
 			isa = PBXGroup;
 			children = (
 				7F7A859D2CE17B72000971F0 /* README.md */,
+				7FC9DD622CE5D09500A6A705 /* New Group */,
 				7F7A85802CE0A394000971F0 /* Model */,
 				7F7A85822CE0A3A5000971F0 /* View */,
 				7F7A85812CE0A39C000971F0 /* ViewModel */,
 				7F7A859A2CE1792F000971F0 /* Extensions */,
 				7F7A85832CE0A6F2000971F0 /* Helper */,
 				7F7A85842CE0A718000971F0 /* Support */,
-				7F7A85872CE0A7A8000971F0 /* MainScreenViewController.swift */,
 				7F7A855E2CE0A2C9000971F0 /* Info.plist */,
 			);
 			path = "Fetch Recipie";
@@ -232,6 +232,14 @@
 				7F7A85AC2CE31CC9000971F0 /* UIColor+Ext.swift */,
 			);
 			path = Extensions;
+			sourceTree = "<group>";
+		};
+		7FC9DD622CE5D09500A6A705 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				7F7A85872CE0A7A8000971F0 /* MainScreenViewController.swift */,
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
