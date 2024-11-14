@@ -23,12 +23,12 @@
         -Smooth animations and transitions
         -Created some features/aspects of the app that could integrate with Fetch's app
 ### Time Spent: Approximately how long did you spend working on this project? How did you allocate your time?
-I spent a weekend working on the project
-    -The first chunk was spend on creating a design wireframe/drawing for the project based on requirements
-    -The second part was spent setting up the networking and making sure the data was being received/accessed properly
-    -The next chunk was spent setting up the UI based on the designs
-    -The fourth chunk was spend optimizing/cleaning up the code and error handling
-    -The last chunk of time was spent writing unit tests for the app
+    I spent a weekend working on the project
+        -The first chunk was spend on creating a design wireframe/drawing for the project based on requirements
+        -The second part was spent setting up the networking and making sure the data was being received/accessed properly
+        -The next chunk was spent setting up the UI based on the designs
+        -The fourth chunk was spend optimizing/cleaning up the code and error handling
+        -The last chunk of time was spent writing unit tests for the app
 ### Trade-offs and Decisions: Did you make any significant trade-offs in your approach?
     UIKit vs SwiftUI
         -Chose UIKit for better compatibility and performance
@@ -62,4 +62,5 @@ I spent a weekend working on the project
         -Add offline support
         -Implement recipe favorites
         -Add more filtering options
+        -Add AppIcon. (Due to problems seen with Git pushing and time constraints I would've liked to add an AppIcon too)
 
